@@ -1,0 +1,7 @@
+{
+  "name": "school/erp-enterprise",
+  "description": "School ERP Enterprise - Core Auth & RBAC module",
+  "type": "project",
+  "require": { "php": ">=8.3" },
+  "autoload": { "psr-4": { "App\\": "app/" } }
+}
